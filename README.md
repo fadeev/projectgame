@@ -1,4 +1,4 @@
-# projectgame
+# Project Game
 
 ![Screenshot](screenshot.png?raw=true "Screenshot")
 
